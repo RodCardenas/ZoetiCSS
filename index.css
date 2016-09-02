@@ -3,6 +3,7 @@ html{
   -webkit-font-smoothing: antialiased;
   position: relative;
   min-height: 100%;
+  background: rgb(221, 221, 221);
 }
 
 h1{
